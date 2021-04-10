@@ -259,3 +259,10 @@ function fatorial(num){
 }
 
 fatorial(6);
+
+
+function oiMundo(){
+	
+	console.log("Oi mundo. Eu estou no github");
+	
+}
